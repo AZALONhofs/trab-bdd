@@ -5,7 +5,7 @@ Oswald  φ
 
 # cores:  φ
 	Cherry	#D2042D  φ
- Blood Red	#880808  φ
+ Blood Red	#880808   φ
  	Scarlet	#FF2400  φ
   
   # familia de icones:
